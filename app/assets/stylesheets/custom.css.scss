@@ -11,3 +11,16 @@
 .ui.button{
   background: #f2711c;
 }
+
+#messages{
+  height: 15em;
+  overflow: auto;
+}
+
+
+
+.input{
+  button{
+    display: none;
+  }
+}
